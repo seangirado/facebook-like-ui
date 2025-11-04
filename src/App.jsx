@@ -3,7 +3,7 @@ import PostList from './components/PostList.jsx';
 import PostForm from './components/PostForm.jsx';
 
 // 🚨 FIX: Remove the trailing slash here!
-const API_URL = "https://facebook-like-ui.onrender.com";
+const API_URL = "https://facebookapi-x1oo.onrender.com";
 
 export default function App() {
   const [posts, setPosts] = useState([]);
